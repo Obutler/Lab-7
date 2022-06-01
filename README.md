@@ -1,6 +1,7 @@
 # Lab 7
 
 Lab goals and outcomes:
+--
 
 Part 1: Create your own GitHub organization for the CIT Minor
 Part 2: Create your first GitHub repository
